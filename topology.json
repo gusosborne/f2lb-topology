@@ -1,6 +1,7 @@
 {
   "Producers": [
     {"addr": "preeb.ddns.net", "port": 6006, "valency": 1},
+    {"addr": "preeb2.ddns.net", "port": 6000, "valency": 1},
     {"addr": "129.152.11.126", "port": 3001, "valency": 1},
     {"addr": "adrelay.hawak.cloud", "port": 3002, "valency": 1},
     {"addr": "161.97.172.86", "port": 6000, "valency": 1},
