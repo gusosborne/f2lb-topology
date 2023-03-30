@@ -1,5 +1,6 @@
 {
   "Producers": [
+    {"addr": "relays-new.cardano-mainnet.iohk.io", "port": 3001, "valency": 2 },
     {"addr": "preeb.ddns.net", "port": 6006, "valency": 1},
     {"addr": "preeb2.ddns.net", "port": 6000, "valency": 1},
     {"addr": "129.152.11.126", "port": 3001, "valency": 1},
@@ -11,6 +12,7 @@
     {"addr": "relaynode1.nsupdate.info", "port": 6000, "valency": 1},
     {"addr": "r1.astch.com", "port": 3001, "valency": 1},
     {"addr": "r3.astch.com", "port": 6001, "valency": 1},
-    {"addr": "64.140.118.166", "port": 5553, "valency": 1}
+    {"addr": "64.140.118.166", "port": 5553, "valency": 1},
+    {"addr": "79.143.176.128", "port": 3000, "valency": 1, "poolName": "Tapioca pool", "poolTicker":  "TAPC"}
   ]
 }
